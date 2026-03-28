@@ -48,13 +48,10 @@ A transparência do meu progresso e contribuições.
 Sinta-se à vontade para se conectar comigo para parcerias, dúvidas ou apenas para falar sobre tecnologia.
 
 <p align="left">
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:SEU_EMAIL" target="_blank">
+  <a href="meupcminhavida007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="SEU_LINK_DO_INSTAGRAM_OU_PORTFOLIO" target="_blank">
+  <a href="https://www.instagram.com/willzin__zz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
