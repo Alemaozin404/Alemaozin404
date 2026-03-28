@@ -1,16 +1,25 @@
-## Hi there 👋
+```markdown
+# Olá, eu sou o William (Alemaozin404) 👋
 
-<!--
-**Alemaozin404/Alemaozin404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Web Developer & Empreendedor Digital
 
-Here are some ideas to get you started:
+Sou desenvolvedor focado em criar soluções web modernas e escaláveis. Atualmente trabalho com o desenvolvimento de sites profissionais e sistemas integrados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Stacks Principais:** React, Next.js, TypeScript e Firebase.
+- 🐧 **Entusiasta Linux:** Usuário de Pop!_OS e focado em produtividade via terminal.
+- 🎮 **Interesses:** Minecraft Modding, Desenvolvimento de APIs e Automação.
+- 🚀 **Projeto Atual:** Desenvolvendo a marca **Steenlink**.
+
+---
+
+### 📊 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alemaozin404&show_icons=true&theme=tokyonight)
+
+### 🛠️ Linguagens e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,tailwind,linux,vscode,github" />
+</p>
+
+---
+📫 **Como me encontrar:**
+[https://www.instagram.com/willzin__zz/]
